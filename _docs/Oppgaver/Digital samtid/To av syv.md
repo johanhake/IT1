@@ -1,6 +1,6 @@
-# To av syv
+# Digital samtid
 
-Det er syv kompetansemål i læreplanens hovedområde Digital samtid. Din oppgave er å lage et nettsted som handler om minst to av disse. Du kan selv velge hvilke.
+Det er syv kompetansemål i læreplanens hovedområde Digital samtid. 3 av disse kompetanse mål har vi allerede gått igjennom (se listen under). Din oppgave er å lage et nettsted som handler om minst to av de resterende målene. Du kan selv velge hvilke. 
 
 Spesifikasjoner for nettstedet
 ------------------------------
@@ -18,13 +18,13 @@ Nettstedet skal inneholde:
 
 Her er alle kompetansemåla i hovedområde Digital samtid, du skal velge deg minimum to av disse:
 
- * beskrive ulike typer digitalt utstyr og forklare hovedtrekkene ved virkemåten
- * forklare hvordan de fysiske signalene i datautstyr kan tolkes som binære tall, tegnsett, grafiske framstillinger, billedpunkter og lyd
- * gjøre rede for standarder for kommunikasjon mellom ulike former for digitalt utstyr og mellom programmer
- * gjøre rede for hvilke utfordringer og muligheter den digitale verden kan skape for språklige og kulturelle minoriteter
- * gjøre rede for og argumentere for nødvendigheten av regelverk og etiske normer for bruk av informasjonsteknologi
- * beskrive og drøfte informasjonsteknologiens muligheter og konsekvenser
- * beskrive og foreslå tiltak mot trusler i den digitale verden
+ 1. _beskrive ulike typer digitalt utstyr og forklare hovedtrekkene ved virkemåten_
+ 2. _forklare hvordan de fysiske signalene i datautstyr kan tolkes som binære tall, tegnsett, grafiske framstillinger, billedpunkter og lyd_
+ 3. _gjøre rede for standarder for kommunikasjon mellom ulike former for digitalt utstyr og mellom programmer_
+ 4. gjøre rede for hvilke utfordringer og muligheter den digitale verden kan skape for språklige og kulturelle minoriteter
+ 5. gjøre rede for og argumentere for nødvendigheten av regelverk og etiske normer for bruk av informasjonsteknologi
+ 6. beskrive og drøfte informasjonsteknologiens muligheter og konsekvenser
+ 7. beskrive og foreslå tiltak mot trusler i den digitale verden
 
 ## Forslag til temaer
 
