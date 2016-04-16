@@ -11,15 +11,17 @@ Nettstedet skal inneholde:
 * Minimum tre sider som brukeren kan navigere mellom, og hver side bør inneholde minst ett bilde eller video. Etter avtale med læreren kan du velge andre løsninger her.
 * Du skal belyse minimum to av kompetansemåla fra hovedområdet Digital samtid i IT1. Du må også skrive en kort tekst hvor du gjør rede for sammenhengen mellom kompetansemåla og temaet du har valgt for besvarelsen din. Denne teksten skrives på en egen side som ikke trenger å være tilgjengelig fra hovedmenyen (plasser den for eksempel i footer).
 * Dersom du mener at du presenterer et tema på en måte som dekker tre eller flere kompetansemål, og dette gjøres på en god måte, vil det være positivt for vurderinga av oppgaven.
-* Nettstedet skal lages fra bunnen av med HTML og CSS. De ferdige nettsidene skal validere som gyldig HTML5 på [validator.w3.org](https://validator.w3.org/). Du kan bruke Javascript og andre teknologier om du ønsker det, men dette vil ikke være med i vurderinga av prosjektet. Om du bruker andre teknologier må du være obs på at kravet om gyldig HTML5 er ufravikelig.
-* Du må ha kildehenvisninger til innholdet. Vær spesielt nøye med å bare bruke bilder som er lov å kopiere. Du trenger ikke å ha en egen referanseliste. Forsøk heller å lenke relevante kilder inn i teksten. Se for eksempel hvordan NRKbeta refererer til kilder med lenker i [denne artikkelen om terrorangrepet i Paris](https://nrkbeta.no/2015/11/17/paris-fleip-eller-fakta/).
-* Nettstedet skal inneholde minst én video som belyser temaet på en god måte. Du trenger ikke å produsere videoen selv. Finn én (eller flere) faglig god video(er) som er publisert på nettet (for eksempel på YouTube eller Vimeo).
+* Nettstedet skal lages fra bunnen av med HTML, CSS og PHP. De ferdige nettsidene skal validere som gyldig HTML5 på [validator.w3.org](https://validator.w3.org). Du kan bruke Javascript og andre teknologier om du ønsker det, men dette vil ikke være med i vurderinga av prosjektet. Om du bruker andre teknologier må du være obs på at kravet om gyldig HTML5 er ufravikelig.
+* Du må ha kildehenvisninger til innholdet også for bilder. Du trenger ikke å ha en egen referanseliste. Forsøk heller å lenke relevante kilder inn i teksten. Se for eksempel hvordan NRKbeta refererer til kilder med lenker i [denne artikkelen om terrorangrepet i Paris](https://nrkbeta.no/2015/11/17/paris-fleip-eller-fakta/).
+* Vær spesielt nøye med å bare bruke bilder som er lov å kopiere. [delrett.no]( http://delrett.no/nb/artikler/finne-bilder-p%C3%A5-nettet-%E2%80%93-til-bruk-i-undervisningsmateriale) har en fin side med en instruktive yourtube video, som beskriver reglene du må følge. Sidene dere lager vill ikke nødvendigvis legges ut på nettet men bruk bilder utifra antagelsen at den vill legges ut. 
+* Nettstedet kan inneholde en video som belyser temaet på en god måte. Du trenger ikke å produsere videoen selv. Finn én (eller flere) faglig god video(er) som er publisert på nettet (for eksempel på YouTube eller Vimeo).
 * Nettstedet skal være utformet i henhold til kravene om universell utforming, så langt det er praktisk mulig. Bruk [Tilsyn for universell utforming av IKT](http://uu.difi.no/) for å skaffe deg en oversikt over hvilke krav som stilles til universell utforming.
-* Nettstedet skal publiseres på en web-server, læreren gir deg nærmere instrukser om dette. Navnet ditt bør fremkomme på alle sider, for eksempel ved å lenke til en "Om-side" hvor du forteller om bakgrunnen for sidene og hvem du er. Du kan publisere anonymt, men da skal du begrunne hvorfor du velger å gjøre det. Alle filene skal ligge i en mappe som heter `2av7`. 
+* Nettstedet skal kunne publiseres på en web-server. Det er ikke sikkert vi får til dette da Oslo-skolen ikke har tilgang til dette enn. Men læreren kommer tilbake med nærmre innstruksjoner.
+* Navnet til deltakene i gruppen bør fremkomme på alle sider, for eksempel ved å lenke til en "Om-side" hvor du forteller om bakgrunnen for sidene og hvem du er.
 
 ## Valg av kompetansemål i hovedområde Digital samtid
 
-Her er alle kompetansemåla i hovedområde Digital samtid, du skal velge deg minimum to av disse:
+Her er alle kompetansemåla i hovedområde Digital samtid, du skal velge deg minimum to av de 4 siste målene:
 
  1. _beskrive ulike typer digitalt utstyr og forklare hovedtrekkene ved virkemåten_
  2. _forklare hvordan de fysiske signalene i datautstyr kan tolkes som binære tall, tegnsett, grafiske framstillinger, billedpunkter og lyd_
