@@ -41,14 +41,18 @@ Her er alle kompetansemåla i hovedområde **Digital samtid**, du skal velge deg
 
 Du står fritt til å velge tema for oppgaven. Her er noen forslag til temaer. Ønsker du å lage et nettsted om noe annet enn det som er foreslått nedenfor, er det helt greit så lenge det dekker minimum to kompetansemål i hovedområdet Digital samtid. 
 
-* [Kryptering av nettsider](https://nrkbeta.no/2015/12/11/washington-post-krypterer-sin-nettutgave)
-
-Om du ønsker å belyse et etisk og moralsk tema kan du for eksempel velge deg en av disse filmene eller temane som utgangspunkt (velg bare en av filmene eller linkene til nettstedet ditt):
+Om du ønsker å belyse et etisk og moralsk tema kan du for eksempel velge deg en av disse filmene (velg bare en av filmene til nettstedet ditt):
 
 * [The Internet's Own Boy: The Story of Aaron Swartz](https://htmlpreview.github.io/?https://github.com/fagstoff/IT1/blob/master/_docs/Filmer/internets-own-boy.html)
 * [The Wikileaks Documentary](https://htmlpreview.github.io/?https://github.com/fagstoff/IT1/blob/master/_docs/Filmer/wikileaks-documentary.html)
 * [TPB AFK - The Pirate Bay Away From Keyboard](https://htmlpreview.github.io/?https://github.com/fagstoff/IT1/blob/master/_docs/Filmer/tpb-afk.html)
+
+Eller så kan du velge noen av disse temaene som har med sikkerhet og trender i den digitale verden.
+
 * [Anonymous](https://no.wikipedia.org/wiki/Anonymous)
+* [Kryptering av nettsider](https://nrkbeta.no/2015/12/11/washington-post-krypterer-sin-nettutgave)
+* [Internet of things](http://www.mckinsey.com/industries/semiconductors/our-insights/internet-of-things-opportunities-and-challenges-for-semiconductor-companies)
+* [What is and why care for open source software](http://www.spoken.com/blog/what-is-open-source-why-care)
 
 ## Andre kompetansemål
 
