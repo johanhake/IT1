@@ -1,6 +1,9 @@
-# Digital samtid
+# To av fire
 
-Det er syv kompetansemål i læreplanens hovedområde Digital samtid. 3 av disse kompetanse mål har vi allerede gått igjennom (se listen under). Din oppgave er å lage et nettsted som handler om minst to av de resterende målene. Du kan selv velge hvilke. 
+Det er syv kompetansemål i læreplanens hovedområde Digital samtid. Tre
+av disse kompetanse mål har vi allerede gått igjennom (se listen
+under). Din oppgave er å lage et nettsted som handler om minst to av
+de resterende fire målene. Du kan selv velge hvilke.
 
 Spesifikasjoner for nettstedet
 ------------------------------
