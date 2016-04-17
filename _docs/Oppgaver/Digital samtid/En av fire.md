@@ -2,7 +2,7 @@
 
 Det er syv kompetansemål i læreplanens hovedområde **Digital
 samtid**. Tre av disse kompetanse målen har vi allerede gått igjennom
-(se listen under). Din oppgave er å lage et nettsted som handler om minst et
+(se listen under). Deres oppgave er å lage et nettsted som handler om minst et
 av de resterende fire målene. Dere kan selv velge hvilket/hvilke.
 
 Grupparbeid vs indivudiellt arbeid
@@ -27,7 +27,7 @@ Nettstedet skal inneholde:
 * Nettstedet skal inneholde en video som belyser temaet. Dere trenger ikke å produsere videoen selv. Finn én (eller flere) faglig god video(er) som er publisert på nettet (for eksempel på YouTube eller Vimeo). Hvis dere absolutt ikke finner noen video dere kan bruke kan dere undgå dette kravet. Men da må det begrunnes, f eks hvor dere forklarer sammenhengen mellom kompetansemåla og temaet dere har valgt (se over). 
 * Nettstedet skal være utformet i henhold til kravene om universell utforming, så langt det er praktisk mulig. Bruk [Tilsyn for universell utforming av IKT](http://uu.difi.no) for å skaffe deg en oversikt over hvilke krav som stilles til universell utforming.
 * Nettstedet skal kunne publiseres på en web-server. Det er ikke sikkert vi får til dette da osloskolen ikke har tilgang til dette enn. Men læreren kommer tilbake med nærmre innstruksjoner.
-* Navnet til deltakene i gruppen skal kunne fremkommes på alle sider, for eksempel ved å lenke til en "Om-side" hvor du forteller om bakgrunnen for sidene og hvem dere er. På denne siden skal det også gå frem hva hver enkelt i gruppen har bidratt med. 
+* Navnet til deltakene i gruppen skal kunne fremkommes på alle sider, for eksempel ved å lenke til en "Om-side" hvor dere forteller om bakgrunnen for sidene og hvem dere er. På denne siden skal det også gå frem hva hver enkelt i gruppen har bidratt med. 
 
 ## Valg av kompetansemål i hovedområde **Digital samtid**
 
@@ -43,8 +43,8 @@ Her er alle kompetansemåla i hovedområde **Digital samtid**. Dere skal velge m
 
 ## Forslag til temaer
 
-Du står fritt til å velge tema for oppgaven. Her er noen forslag til
-temaer. Ønsker du å lage et nettsted om noe annet enn det som er
+Dere står fritt til å velge tema for oppgaven. Her er noen forslag til
+temaer. Ønsker dere å lage et nettsted om noe annet enn det som er
 foreslått nedenfor, er det helt greit så lenge det dekker minimum et
 kompetansemål i hovedområdet Digital samtid.
 
